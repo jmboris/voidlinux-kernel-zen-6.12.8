@@ -1,7 +1,7 @@
 # voidlinux-kernel-zen-6.12.8
 Kernel 6.12.8 with patch zen , template for VoidLinux
 
-![Captura de pantalla_20250104_134039](https://github.com/user-attachments/assets/286ceabd-ff31-4739-bc59-b465c93e5e7f)
+
 ![image](https://github.com/user-attachments/assets/5b815abe-9f2e-4d31-bb01-68dab60b1c6b)
 
 This repository contains the xsrc folder necesary to build the linux 6.12.6-zen and linux6.12.6-zen-headers, as well the template to install kernel 6.12.6 an the path for it from zen-kernel repository.
@@ -31,7 +31,7 @@ You need to create the symbolik link :
 
 `ln -s linux6.12.8-zen/ linux6.12.8-zen-headers`
 
-![image1](https://github.com/user-attachments/assets/1abdbe6b-55f3-432a-b022-9f354cf865d5)
+![Captura de pantalla_20250104_134039](https://github.com/user-attachments/assets/286ceabd-ff31-4739-bc59-b465c93e5e7f)
 
 #VOID MANUAL
 https://github.com/void-linux/void-packages/blob/master/Manual.md
