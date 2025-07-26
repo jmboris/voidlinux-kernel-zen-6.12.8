@@ -6,6 +6,7 @@ Kernel 6.12.8 with patch zen , template for VoidLinux
 
 This repository contains the xsrc folder necesary to build the linux 6.12.8-zen and linux6.12.8-zen-headers, as well the template to install kernel 6.12.8 an the path for it from zen-kernel repository.
 
+Binaries https://voidrepo.linuxnauta.com/
 
 ## NOTE
 
